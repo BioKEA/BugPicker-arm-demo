@@ -13,6 +13,12 @@ The main script, `Plate_shuttle_cycle.py`, performs one complete automated cycle
 7. Return and release the plate onto the BugPicker.
 8. Retract and return to the home travel pose.
 
+## Project Context
+
+This workflow was built as part of the [AI Science World Model Hack Hub Zeon Systems](https://app.notion.com/p/AI-Science-World-Model-Hack-Hub-Zeon-Systems-389ee7a4c4578088bd99c7b454c20491) hackathon.
+
+The goal was to demonstrate how AI-assisted software development and robotics can automate a real biological discovery bottleneck: moving 96-well plates between organism-handling, imaging, and scanning stations.
+
 ## Hardware
 
 - uFactory xArm 7
